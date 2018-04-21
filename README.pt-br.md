@@ -7,7 +7,7 @@ Uma coleção de recursos legais, escondidos (ou nem tanto assim) do Git e do Gi
 
 ## Sumário
   - [GitHub](#github)
-    - [Ignorar Espaços em Branco](#ignorar-espacos-em-branco)
+    - [Ignorar Espaços em Branco](#ignorar-espaços-em-branco)
     - [Adjust Tab Space](#adjust-tab-space)
     - [Commit History by Author](#commit-history-by-author)
     - [Cloning a Repository](#cloning-a-repository)
