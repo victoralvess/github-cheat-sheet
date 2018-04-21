@@ -5,9 +5,9 @@ Uma coleção de recursos legais, escondidos (ou nem tanto assim) do Git e do Gi
 
 *Leia em: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md) ou [Português](README.pt-br.md).*
 
-## Table of Contents
+## Sumário
   - [GitHub](#github)
-    - [Ignore Whitespace](#ignore-whitespace)
+    - [Ignorar Espaços em Branco](#ignorar-espacos-em-branco)
     - [Adjust Tab Space](#adjust-tab-space)
     - [Commit History by Author](#commit-history-by-author)
     - [Cloning a Repository](#cloning-a-repository)
@@ -78,12 +78,12 @@ Uma coleção de recursos legais, escondidos (ou nem tanto assim) do Git e do Gi
       - [Git Articles](#git-articles)
 
 ## GitHub
-### Ignore Whitespace
-Adding `?w=1` to any diff URL will remove any changes only in whitespace, enabling you to see only the code that has changed.
+### Ignorar Espaços em Branco
+Adicionar `?w=1` a qualquer URL de comparação removerá quaisquer alterações nos espaços em branco, permitindo que você veja apenas o código que foi alterado.
 
-![Diff without whitespace](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
+![Comparação sem espaços em branco](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
 
-[*Read more about GitHub secrets.*](https://github.com/blog/967-github-secrets)
+[*Leia mais sobre 'GitHub Secrets'.*](https://github.com/blog/967-github-secrets)
 
 ### Adjust Tab Space
 Adding `?ts=4` to a diff or file URL will display tab characters as 4 spaces wide instead of the default 8. The number after `ts` can be adjusted to suit your preference. This does not work on Gists, or raw file views, but a [Chrome](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) or [Opera extension](https://addons.opera.com/en/extensions/details/github-tab-size/) can automate this.
