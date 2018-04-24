@@ -8,7 +8,7 @@ Uma coleção de recursos legais, escondidos (ou nem tanto assim) do Git e do Gi
 ## Sumário
   - [GitHub](#github)
     - [Ignorar Espaços em Branco](#ignorar-espaços-em-branco)
-    - [Ajustar o Tamanho da Tabulação (Tab)](#ajustar-o-tamanho-da-tabulação-(tab))
+    - [Ajustar o Tamanho da Tabulação (Tab)](#ajustar-o-tamanho-da-tabulação-tab)
     - [Commit History by Author](#commit-history-by-author)
     - [Cloning a Repository](#cloning-a-repository)
     - [Branch](#branch)
