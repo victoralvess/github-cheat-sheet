@@ -8,7 +8,7 @@ Uma coleção de recursos legais, escondidos (ou nem tanto assim) do Git e do Gi
 ## Sumário
   - [GitHub](#github)
     - [Ignorar Espaços em Branco](#ignorar-espaços-em-branco)
-    - [Adjust Tab Space](#adjust-tab-space)
+    - [Ajustar o Tamanho da Tabulação (Tab)](#ajustar-o-tamanho-da-tabulação-(tab))
     - [Commit History by Author](#commit-history-by-author)
     - [Cloning a Repository](#cloning-a-repository)
     - [Branch](#branch)
@@ -85,14 +85,14 @@ Adicionar `?w=1` a qualquer URL de comparação removerá quaisquer alterações
 
 [*Leia mais sobre 'GitHub Secrets'.*](https://github.com/blog/967-github-secrets)
 
-### Adjust Tab Space
-Adding `?ts=4` to a diff or file URL will display tab characters as 4 spaces wide instead of the default 8. The number after `ts` can be adjusted to suit your preference. This does not work on Gists, or raw file views, but a [Chrome](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) or [Opera extension](https://addons.opera.com/en/extensions/details/github-tab-size/) can automate this.
+### Ajustar o Tamanho da Tabulação (Tab)
+Adicionar `?ts=4` a URL de comparação ou de arquivo mostrará a tabulação com 4 espaços ao invés de 8 (padrão). O número após `ts` pode ser escolhido de acordo com a sua preferência. Isso não funciona nos Gists, ou em *raw files*, porém uma extensão do [Chrome](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) ou do [Opera](https://addons.opera.com/en/extensions/details/github-tab-size/) pode automatizar isso.
 
-Here is a Go source file before adding `?ts=4`:
+Aqui está um código em Go antes de adicionar `?ts=4`:
 
 ![Before, tab space example](http://i.imgur.com/GIT1Fr0.png)
 
-...and this is after adding `?ts=4`:
+...e aqui está o mesmo arquivo após `?ts=4`:
 
 ![After, tab space example](http://i.imgur.com/70FL4H9.png)
 
